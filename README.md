@@ -1,3 +1,5 @@
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/glitchtip-1?utm_medium=integration&utm_source=button&utm_campaign=glitchtip)
+
 # GlitchTip on Railway
 
 A Railway template for [GlitchTip](https://glitchtip.com), the open-source, Sentry-compatible error tracking, performance and uptime monitoring platform.
